@@ -1,0 +1,14 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 30DA-031C
+
+ R‚pertoire de C:\Users\Kinen\Desktop\my project
+
+09/12/2020  12:44    <DIR>          .
+09/12/2020  12:44    <DIR>          ..
+09/12/2020  12:40    <DIR>          .git
+07/12/2020  12:50                15 test1.txt
+07/12/2020  12:53               469 test2.html
+07/12/2020  13:05                33 test3.txt
+09/12/2020  12:44                 0 test5.txt
+               4 fichier(s)              517 octets
+               3 R‚p(s)  52ÿ089ÿ282ÿ560 octets libres
